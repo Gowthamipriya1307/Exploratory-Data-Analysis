@@ -28,8 +28,8 @@ IPL_Dataset_EDA/
 ## 🚀 How to Run the Project
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Gowthamipriya1307/Exploratory-Data-Analysis.git
+   cd Exploratory-Data-Analysis
    ```
 2. **Install dependencies**
    If you don't have the required libraries, install them using:
